@@ -14,3 +14,4 @@ This work is licensed under a
 
 
 ![LDM_WASP_Extruder_3.0_on_UR10e_Wiring_Diagram](Assets/LDM_WASP_Extruder_3.0_on_UR10e_Wiring_Diagram.svg)
+Diagram made with the open-source tool [Fritzing](https://fritzing.org/).
