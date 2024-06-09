@@ -13,4 +13,4 @@ This work is licensed under a
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 
 
-![LDM WASP Extruder 3 0 on UR10e_Wiring_Diagram](https://github.com/cxlso/LDM_WASP_Extruder_3.0_on_UR10e/assets/29285706/282c5206-149a-4c54-8e9d-0360be7633e2)
+![LDM WASP Extruder 3 0 on UR10e_Wiring_Diagram](./assets/LDM_WASP_Extruder_3.0_on_UR10e_Wiring_Diagram.svg)
