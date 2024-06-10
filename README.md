@@ -45,22 +45,24 @@ Diagram made with the open-source tool [Fritzing](https://fritzing.org/).
 
 #### Controller Box
 
-- Structure 3D printing file. Skeleton inside de box holding all the components in place,
-- Corner brackets 3D printing file,
-- 3MM acrylic wall Laser cutting file.
+- [Structure](Controller_Box/CAD/Print_WASP_Skeleton.stl) 3D printing file. Skeleton inside de box holding all the components in place,
+- [Corner brackets](Controller_Box/CAD/Print_WASP_Corner_Bracket.stl) 3D printing file,
+- [3MM acrylic wall](Controller_Box/CAD/Cut_WASP_3MM_Walls.AI) Laser cutting file.
 
 #### Mounts
-- WASP LDM Extruder 3.0 Mount 3D printing file,
-- Clay Tank Mount 3D printing file,
-- Pressure Gauge Mount 3D printing file.
+- [WASP LDM Extruder 3.0 Mount](Mounts/Print_WASP_Extruder_Mount.stl) 3D printing file,
+- [Clay Tank Mount](Mounts/Print_WASP_Tank_Mount.stl) 3D printing file,
+- [Pressure Gauge Mount](Mounts/Print_WASP_Gauge_Mount.stl) 3D printing file.
+
+If customization is desired, Rhino files for each of the parts are in the repository.
 
 ### Scripts
 
-#### Arduino Script: 
+#### [Arduino Script](Arduino/Stepper_PulseDir_WASP)
 
-Upload the provided code (WASP_Extruder_Controller.ino) to the Arduino Nano. Ensure all connections are made according to the wiring diagram.
+Upload the provided code to the Arduino Nano. Ensure all connections are made according to the wiring diagram.
 
-#### Grasshopper Definition
+#### [Grasshopper Definition](Grasshopper/Basic_Extrusion_Command.gh)
 
 The [Robots](https://www.food4rhino.com/en/app/robots) plugin is necessary. The extrusion rate is set in RPM and is converted to steps per second with the following equation:
 $$y = \left( \frac{x \times 800}{60} \right)$$
