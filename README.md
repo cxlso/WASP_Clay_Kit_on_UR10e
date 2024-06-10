@@ -38,7 +38,7 @@ The workflow begins with the Grasshopper script embedding the extrusion commands
 
 Refer to the following wiring diagram for the electrical connections.
 
-![LDM_WASP_Extruder_3.0_on_UR10e_Wiring_Diagram](Assets/LDM_WASP_Extruder_3.0_on_UR10e_Wiring_Diagram.svg)
+![LDM_WASP_Extruder_3.0_on_UR10e_Wiring_Diagram](Controller_Box/Wiring_Diagram/LDM_WASP_Extruder_3.0_on_UR10e_Wiring_Diagram.svg)
 Diagram made with the open-source tool [Fritzing](https://fritzing.org/).
 
 ### CAD Files
