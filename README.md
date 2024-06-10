@@ -22,6 +22,7 @@ List of Materials:
 - M3 and M4 Hex Socket Head Screws
 - 3mm Acrylic Sheet
 - Electrical Connectors (JST XH in our case)
+- 18 and 24awg cables 
 
 You need to 3D print the structural part and 4 corner connections. You will also need to laser cut the walls of the box in a 3mm acrylic sheet. 
 
