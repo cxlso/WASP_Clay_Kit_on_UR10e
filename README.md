@@ -63,7 +63,7 @@ If customization is desired, Rhino files for each of the parts are in the reposi
 
 Upload the provided code to the Arduino Nano. Ensure all connections are made according to the wiring diagram.
 
-#### [Grasshopper Definition](Grasshopper/Basic_Extrusion_Command.gh)
+#### [Grasshopper Definition](Grasshopper/Basic_Robotic_Extrusion_WASP.gh)
 
 The [Robots](https://www.food4rhino.com/en/app/robots) plugin is necessary. The extrusion rate is set in RPM and is converted to steps per second with the following equation:
 $$y = \left( \frac{x \times 800}{60} \right)$$
