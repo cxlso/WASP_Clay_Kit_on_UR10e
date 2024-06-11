@@ -1,6 +1,8 @@
 # WASP Clay Kit on UR10e
 ###### A controller box and mounts to get started with the WASP Clay Kit on UR10e
 
+![Render_MDPH2_on_UR10e](Pictures/Render_WASP_Clay_Kit_on_UR10e.jpg)
+
 ## Overview
 This repository contains everyting needed to get started with robotic clay printing with the [WASP Clay Kit](https://www.3dwasp.shop/en/prodotto/clay-extruder-wasp-clay-kit/) and the [Universal Robot UR10e](https://www.universal-robots.com/products/ur10-robot/) (or any UR model).
 
