@@ -73,6 +73,9 @@ The [Robots](https://www.food4rhino.com/en/app/robots) plugin is necessary. The 
 $$y = \left( \frac{x \times 800}{60} \right)$$
 Where 800 represents the number of steps per revolution for the stepper motor, and 60 is used to convert minutes to seconds, resulting in the conversion of RPM (x) to steps per second (y).
 
+## Pictures and Videos
+
+https://github.com/cxlso/WASP_Clay_Kit_on_UR10e/blob/main/Pictures/20240128_163350.mp4
 
 ## Contributing
 
