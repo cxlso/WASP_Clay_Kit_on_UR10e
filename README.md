@@ -75,7 +75,9 @@ Where 800 represents the number of steps per revolution for the stepper motor, a
 
 ## Pictures and Videos
 
-https://github.com/cxlso/WASP_Clay_Kit_on_UR10e/blob/main/Pictures/20240128_163350.mp4
+<video controls="" width="800" height="500" muted="" loop="" autoplay="">
+<source src="https://github.com/cxlso/WASP_Clay_Kit_on_UR10e/blob/main/Pictures/20240128_163350.mp4" type="video/mp4">
+</video>
 
 ## Contributing
 
